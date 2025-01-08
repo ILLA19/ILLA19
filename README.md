@@ -1,7 +1,8 @@
 - 👋 Hi, I’m ILLA
 - 👀 I’m interested in code
 - 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate with Kam
+- 💞️ I’m looking to collaborate with Kam and Loubna
+- 
 
 
 <!---
